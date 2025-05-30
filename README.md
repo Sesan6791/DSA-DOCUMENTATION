@@ -12,7 +12,7 @@ I have learnt quite a number of data analysis tools ranging from Excel to SQL an
 
 
 #### TOOLS USED
-- MS Excel for Data Cleaning [Download here](https://www.unhcr.org/get-involved/work-us/become-supplier/how-bid-tender-event)
+- MS Excel for Data Cleaning [click here](https://www.unhcr.org/get-involved/work-us/become-supplier/how-bid-tender-event)
   - for data collection
   - for data cleaning
     1. Data Manipulation
@@ -21,4 +21,25 @@ I have learnt quite a number of data analysis tools ranging from Excel to SQL an
 - Power BI
 - MS Power Point
 
+#### DATA CLEANING AND PRESENTATION
+In the initial phase of the data cleaning and presentations, we perform the follwoing actions:
+  - Data loading and Inspection
+  - Handling missing variables
+  - Data cleaning and formatting
 
+
+#### EXPLANATORY DATA ANALYSIS
+EDA involved the exploring of the data to answersome questions about the data such as:
+  - What is the overall sales trend
+  - Which product are top sellers
+  - What are the product on the peak sales?
+
+
+#### DATA ANALYSIS
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis.
+
+''' SQL
+SELECT A,B,C
+WHERE A> 15
+'''
+ 
