@@ -45,5 +45,11 @@ WHERE A> 15
 
 #### MY ANALYSIS
 
+[BoreholeFailures.pdf](https://github.com/user-attachments/files/20518744/BoreholeFailures.pdf)
 
- 
+
+
+
+
+
+[Hydrogeological Assessments.pdf](https://github.com/user-attachments/files/20518751/Hydrogeological.Assessments.pdf)
