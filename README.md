@@ -1,4 +1,5 @@
 # DSA-DOCUMENTATION
+
 Training on Data Analysis
 I have learnt quite a number of data analysis tools ranging from Excel to SQL and Portfolio set up. 
 
@@ -46,10 +47,6 @@ WHERE A> 15
 #### MY ANALYSIS
 
 [BoreholeFailures.pdf](https://github.com/user-attachments/files/20518744/BoreholeFailures.pdf)
-
-
-
-
 
 
 [Hydrogeological Assessments.pdf](https://github.com/user-attachments/files/20518751/Hydrogeological.Assessments.pdf)
